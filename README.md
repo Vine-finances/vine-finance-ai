@@ -1,11 +1,24 @@
-﻿# 🍇 Vine – Open Source Finance AI Assistant
+# 🍇 Vine – Open Source Finance AI Assistant
 
-Track, budget, and save smarter with Vine.
+Vine is an open-source personal finance app powered by AI.  
+Track your spending, budget smarter, and save more — beautifully.
 
-- Built with React Native + TypeScript
-- AI-powered insights
-- 100% Open Source
+## ✨ Features
 
-## 📱 Getting Started
+- 📊 Real-time expense and income tracking
+- 🧠 Smart AI budgeting suggestions
+- 📱 Built with React Native + TypeScript
+- 💡 Visual insights with charts
+- 🔓 100% open-source and privacy-respecting
 
-Coming soon…
+## 📸 Screenshots
+
+> (Add 1–2 images here using Markdown if you can)
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/Vine-finances/vine-finance-ai.git
+cd vine-finance-ai
+npm install
+npm run start
