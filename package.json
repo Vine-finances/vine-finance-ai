@@ -1,0 +1,20 @@
+{
+  "name": "vine-finance-ai",
+  "version": "0.1.0",
+  "main": "src/app.tsx",
+  "license": "MIT",
+  "description": "Track, budget, and save smarter with Vine.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-native": "^0.79.2"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.2",
+    "@types/react-native": "^0.72.8"
+  }
+}
