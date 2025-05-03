@@ -11,9 +11,6 @@ Track your spending, budget smarter, and save more — beautifully.
 - 💡 Visual insights with charts
 - 🔓 100% open-source and privacy-respecting
 
-## 📸 Screenshots
-
-> (Add 1–2 images here using Markdown if you can)
 
 ## 🚀 Getting Started
 
